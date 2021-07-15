@@ -1,0 +1,9 @@
+-- 컬럼추가
+CM_CONTRACT.SUCCESS_CD          시나리오결과코드
+CM_CONTRACT.SUCCESS_NM          시나리오결과코드명
+CM_CONTRACT.TASK_SEQ            AI시나리오상세결과코드
+CM_CONTRACT.TASK_SEQ_NM         AI시나리오상세결과코드명
+CALL_HISTORY.DIAL_RESULT_DETAIL AI통화결과코드
+CM_CONTRACT.CUST_REACT          고객반응
+CM_CONTRACT.REC_ID              녹취ID
+CM_CONTRACT.REC_FILE_NM         녹취파일명
